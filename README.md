@@ -1,2 +1,2 @@
-# leilao-imoveis-scraping
-Web scraping de leilões da Caixa Econômica  
+# leilao-imoveis-api
+API com Web scraping de leilões da Caixa Econômica  
